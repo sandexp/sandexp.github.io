@@ -1,25 +1,25 @@
 ### 导航栏
 
-1. `Java`基础
-2. `Java`并发
-3. `JVM`虚拟机
-4. 操作系统
-5. 计算机网络
-6. `Redis`
-7. `Mysql`
-8. `SQL`优化 
-9. `Kafka`
-10. `Spark`
-11. `Flink`
-12. `Hive`
-13. 维度建模
-14. `JavaScript`
-15. `React`
-16. `Scala`
-17. `Docker`
-18. `Kubernetes`
-19. 分布式理论
-20. 论文
+1. [`Java`基础](./Java基础/index.md)
+2. [`Java`并发](./Java并发/index.md)
+3. [`JVM`虚拟机](./Java虚拟机/index.md)
+4. [操作系统](./操作系统/index.md)
+5. [计算机网络](./计算机网络/index.md)
+6. [`Redis`](./Redis/index.md)
+7. [`Mysql`](./Mysql/index.md)
+8. [`SQL`优化](./SQL优化/index.md) 
+9. [`Kafka`](./Kafka/index.md)
+10. [`Spark`](./Spark/index.md)
+11. [`Flink`](./Flink/index.md)
+12. [`Hive`](./Hive/index.md)
+13. [维度建模](./维度建模/index.md)
+14. [`JavaScript`](./JavaScript/index.md)
+15. [`React`](./React/index.md)
+16. [`Scala`](./Scala/index.md)
+17. [`Docker`](./Docker/index.md)
+18. [`Kubernetes`](./Kubernetes/index.md)
+19. [分布式理论](./分布式理论/index.md)
+20. [论文](./论文/index.md)
 
 ---
 
