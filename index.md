@@ -3,19 +3,23 @@
 1. `Java`基础
 2. `Java`并发
 3. `JVM`虚拟机
-4. `Redis`
-5. `Mysql`
-6. `SQL`优化 
-7. `Kafka`
-8. `Spark`
-9. `Flink`
-10. `Hive`
-11. 维度建模
-12. `JavaScript`
-13. `React`
-14. `Scala`
-15. 分布式理论
-16. 论文
+4. 操作系统
+5. 计算机网络
+6. `Redis`
+7. `Mysql`
+8. `SQL`优化 
+9. `Kafka`
+10. `Spark`
+11. `Flink`
+12. `Hive`
+13. 维度建模
+14. `JavaScript`
+15. `React`
+16. `Scala`
+17. `Docker`
+18. `Kubernetes`
+19. 分布式理论
+20. 论文
 
 ---
 
